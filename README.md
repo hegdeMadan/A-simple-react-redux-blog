@@ -12,17 +12,10 @@ This simple web application shows how React components and Redux can be used to 
 * Notification on new user and new project created
 * Ordred contents and notifications 
 * Reasponsive design for desktop, tablets and mobile (beta)
-
-### Using ###
-
-* React
-  - Redux- for application state management
-* Firebase
-* CSS
-  - Materialize- Reasponsive
-  
   
 ### Start the React App ###
+
+Add your [Firebase](https://firebase.google.com/docs/web/setup) (learn more here) webapp configuration snippet 
 
 Execute the following command
 
