@@ -13,6 +13,8 @@ This simple web application shows how React components and Redux can be used to 
 * Ordred contents and notifications 
 * Reasponsive design for desktop, tablets and mobile (beta)
 
+## Using ##
+
 * [React](https://reactjs.org)
   - [Redux](https://redux.js.org)- for application state management
   - [Thunk](https://www.npmjs.com/package/redux-thunk)- A middleware allows you to write action creators that helps return a function
