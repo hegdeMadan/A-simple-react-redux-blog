@@ -42,3 +42,22 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Basic Functionalities ###
+* Add new user/Login
+* Add new project
+* Live notification on new user/project added
+* Order items by time
+* Responsive design for desktop, tablets and mobile
+
+## Using ##
+* [React](https://reactjs.org)
+  - [Redux](https://redux.js.org) - For application State management
+  - (Thunk)(https://www.npmjs.com/package/redux-thunk) -A middleware allows you to write action creators that return a function instead of an action.
+* [Firebase](https://firebase.google.com/)
+* CSS
+  -[Materialize](http://materializecss.com/)- Materialize is a modern responsive CSS framework based on Material Design by Google.
+ *Insert your Firebse [config](https://firebase.google.com/docs/web/setup) before running the app
+ ```
+ npm start
+ ```
