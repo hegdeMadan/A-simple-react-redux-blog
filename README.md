@@ -57,7 +57,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * [Firebase](https://firebase.google.com/)
 * CSS
   -[Materialize](http://materializecss.com/)- Materialize is a modern responsive CSS framework based on Material Design by Google.
- * Insert your Firebse [config](https://firebase.google.com/docs/web/setup) before running the app *
+  
+ **Insert your Firebse [config](https://firebase.google.com/docs/web/setup) before running the app**
  ```
  npm start
  ```
