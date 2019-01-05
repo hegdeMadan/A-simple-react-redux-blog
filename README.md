@@ -53,7 +53,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Using ##
 * [React](https://reactjs.org)
   - [Redux](https://redux.js.org) - For application State management
-  - (Thunk)(https://www.npmjs.com/package/redux-thunk) -A middleware allows you to write action creators that return a function instead of an action.
+  - [Thunk](https://www.npmjs.com/package/redux-thunk) -A middleware allows you to write action creators that return a function instead of an action.
 * [Firebase](https://firebase.google.com/)
 * CSS
   -[Materialize](http://materializecss.com/)- Materialize is a modern responsive CSS framework based on Material Design by Google.
